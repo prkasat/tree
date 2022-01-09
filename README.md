@@ -30,3 +30,4 @@ https://leetcode.com/problems/path-sum-ii/
 https://leetcode.com/problems/diameter-of-binary-tree/
 https://leetcode.com/problems/count-univalue-subtrees/
 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/
